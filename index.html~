@@ -168,7 +168,7 @@ footer {
         <li><a href="/logout">Log Out</a></li>
         <li><a href="/newpost">New Post</a></li>
 	  </ul>
-      <a href="/" class="main-title">Gavicity Wiki</a>
+      <a href="/" class="main-title">Gavicity Blog</a>
       
 	 
         {% for post in posts %}
